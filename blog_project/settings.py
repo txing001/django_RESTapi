@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'blog_api',
     'rest_framework',
     # 'blog_api.apps.BlogApiConfig',
+    "polls.apps.PollsConfig",
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
